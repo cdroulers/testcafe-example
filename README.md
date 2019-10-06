@@ -11,7 +11,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### Run basic TestCafé for demo on multiple browsers
 
-npm test chrome,firefox,ie,edge tests/e2e/ex/sample -- --speed 0.9
+npm test chrome,ie,edge tests/e2e/ex/sample -- --speed 0.9
 
 ### Run basic TestCafé for demo with AJAX
 
